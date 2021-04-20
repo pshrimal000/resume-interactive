@@ -1,7 +1,7 @@
 /*
  * Oh hello there, Mr. Hacker! , so you want to see some code?
  * Sure thing! , In fact i was thinking of wirting a javascript library to "Type" words
- * as you saw here. Sounds fun? join me!. Drop an email ag120397@gmail.com or message me
+ * as you saw here. Sounds fun? join me!. Drop an email pshrimal000@gmail.com or message me
  * whatever you do, let me know!
  *
  *
@@ -38,7 +38,7 @@ $(function () {
  * 
  *
  * Hello, I guess you are here to meet me.
- * My name is Ashutosh Shrimal.I am Web developer. Oh, and also pusuing B.Tech
+ * My name is Ashutosh Shrimal.I am Web developer. Oh, and also pursuing B.Tech
  * Degree in IT. 
  *  
  * Well this is quite boring isn't it?, How about some live coding?    
@@ -62,20 +62,21 @@ $(function () {
     }    
 
 /**
- * Black on white? Well, this is isn't 1990s so ....The Background !
+ * Black on white? Well, this isn't 1990s so ....The Background !
 */
 
 html{
   background-color: black;
 }
-/**
- * oops! Someone turned off the light! Sorry for the inconvenience caused...
- * 
-*/
 
 html{
   background-color: #6c1f45;
 }
+
+/**
+ * oops! Someone turned off the light! Sorry for the inconvenience caused...
+ * 
+*/
 
 /**
  * Hold On!
@@ -88,7 +89,7 @@ html{
   
 /**
  * Gosh!. Look at all this empty space, lets fit into 
- * something more comfy.
+ * something more comfortable.
 */
 
     
