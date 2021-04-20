@@ -1,11 +1,3 @@
-/*
- * Oh hello there, Mr. Hacker! , so you want to see some code?
- * Sure thing! , In fact i was thinking of wirting a javascript library to "Type" words
- * as you saw here. Sounds fun? join me!. Drop an email pshrimal000@gmail.com or message me
- * whatever you do, let me know!
- *
- *
- */
 
 $(function () {
   //not ready for mobile
@@ -19,17 +11,6 @@ $(function () {
       "Umm, Please use a bigger screen. The thing you are trying to view is too awesome to conatin in this screen size"
     );
   }
-
-  //Print this in console as well.
-
-  console.log(`/*
- * Oh hello there, Mr. Hacker! , so you want to see some code? 
- * Sure thing! , In fact i was thinking of writing a javascript library to "Type" words
- * as you saw here. Sounds fun? join me!. Drop an email pshrimal000@gmail.com or message me
- * whatever you do, let me know!
- * Have Fun!
- * 
-*/`);
 
   var style = `
 /**
