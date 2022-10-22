@@ -19,9 +19,8 @@ $(function () {
  * 
  *
  * Hello, I guess you are here to meet me.
- * My name is Ashutosh Shrimal.I am Web developer. Oh, and also pursuing B.Tech
- * Degree in IT. 
- *  
+ * My name is Ashutosh Shrimal.I am a Software Engineer.
+ * Currently working at Scaler Academy.
  * Well this is quite boring isn't it?, How about some live coding?    
 */
 
